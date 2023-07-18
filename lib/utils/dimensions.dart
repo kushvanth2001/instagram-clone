@@ -1,0 +1,1 @@
+const webscreenminwidth =600;
